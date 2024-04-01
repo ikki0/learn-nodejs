@@ -13,4 +13,4 @@ const config = {
     corsOrigin: process.env.CORS_ORIGIN || 'https://client.twittr.com'
 };
 
-module.exports = config;
+module.exports = config; 
